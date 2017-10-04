@@ -1,19 +1,21 @@
-/*
-Exercise #1
-Create a for loop that prints out the numbers 1 to 100 in the console.
+// Exercise #1
+// Write your solution below
+
+
+/* 
+Write your explanation for Exercise #1 here
+
 */
 
 
 
-/*
-Exercise #2
-Write a loop that makes seven calls to console.log to output the following triangle:
 
-#
-##
-###
-####
-#####
-######
-#######
+
+// Exercise #2
+// Write your solution below
+
+
+/* 
+Write your explanation for Exercise #2 here
+
 */
